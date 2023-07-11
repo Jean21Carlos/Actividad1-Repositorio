@@ -24,7 +24,7 @@ class Home extends BaseController
         echo 'API REST DE VENTAS DE LIBROS';
 
         $usuario = array(
-                "User"=>"ELCHORDY",
+                "User"=>"Popular",
                 "Nombre"=>"JEAN CARLOS CASTILLO",
                 "Ciudad"=>"PORTOvIEJO",
                 "Direccion"=>"ANDRES DE VERA",
